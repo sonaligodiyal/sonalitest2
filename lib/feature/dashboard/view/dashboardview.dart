@@ -20,7 +20,7 @@ class Dashboard extends GetView<Dashboardcontroller> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text("Attendance with Time",style:TextStyle(fontWeight: FontWeight.w800,fontSize: 25,color: Colors.black),),
+                    Text("Attendancewith Time",style:TextStyle(fontWeight: FontWeight.w800,fontSize: 25,color: Colors.black),),
                   //  Text("Time",style: TextStyle(fontWeight: FontWeight.w800,fontSize: 25,color: Colors.white,backgroundColor: Colors.green),)
                   ],
                 ),
